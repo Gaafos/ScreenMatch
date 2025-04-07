@@ -1,6 +1,5 @@
-package br.com.alura.screanmatch.service;
+package br.com.alura.screenmatch.service;
 
-import br.com.alura.screanmatch.model.DadosSerie;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
