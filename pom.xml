@@ -5,6 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
+<<<<<<< HEAD
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
@@ -26,6 +27,16 @@
 		<tag/>
 		<url/>
 	</scm>
+=======
+		<version>3.1.1</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+	<groupId>br.com.alura</groupId>
+	<artifactId>screenmatch</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>screenmatch</name>
+	<description>Primeiro projeto Spring sem web</description>
+>>>>>>> 3322d4b (Ajustes para deixar aplicação mais objetiva e seguir o curso alura)
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -44,8 +55,14 @@
 		<dependency>
 			<groupId>com.fasterxml.jackson.core</groupId>
 			<artifactId>jackson-databind</artifactId>
+<<<<<<< HEAD
 			<version>2.18.2</version>
 		</dependency>
+=======
+			<version>2.15.2</version>
+		</dependency>
+
+>>>>>>> 3322d4b (Ajustes para deixar aplicação mais objetiva e seguir o curso alura)
 	</dependencies>
 
 	<build>
