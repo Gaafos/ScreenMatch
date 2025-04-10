@@ -18,4 +18,3 @@ public class ScreenmatchApplication implements CommandLineRunner {
 		principal.exibeMenu();
 	}
 }
-teste
